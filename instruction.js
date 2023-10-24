@@ -7,6 +7,7 @@
 3. Scroll to the bottom of the page.
 4. Now open Developer Console by pressing Ctrl + Shift + C for Windows or Cmd + Shift + C for Mac.
 Or
+press {...} > Tools > Developer tools
 5. Click on Console Tab.
 6. Now paste the JS code (Below) in the console and hit Enter.
 7. Done! The PDF file will be downloaded.
